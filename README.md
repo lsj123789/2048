@@ -1,6 +1,7 @@
 # 2048
 
 👉先来看一下效果图吧
+
 ![Image text]https://raw.githubusercontent.com/lsj123789/picture/master/%E6%95%88%E6%9E%9C%E5%9B%BE.gif
 
 
@@ -30,7 +31,7 @@
   
   
   👉问题及反馈
-    欢迎来到我的
+    欢迎来到我的GitHub Issues（https://github.com/lsj123789/2048/issues）提出宝贵意见哦！
   
   
   
